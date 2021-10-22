@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 boto3 = "==1.17.11"
-jupyterlab-git = "==0.32.4"
 s3fs = "==0.3.4"
 kafka-python = "*"
 beautifulsoup4 = "==4.8.*"
